@@ -1,3 +1,2 @@
-import matplotlib.pyplot as plt
-import numpy as np
-
+x = 25
+print("X is 25 ")
